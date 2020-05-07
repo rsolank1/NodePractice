@@ -1,0 +1,5 @@
+->git remote add origin https://github.com/rsolank1/NodePractice.git
+->git pull //optional
+->git pull origin master --allow-unrelated-histories
+->git fetch //optional
+->>git push -u origin master
